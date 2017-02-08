@@ -1,1 +1,16 @@
+.flag {
+  height: 90px ;
+  width: 400px ;
+}
 
+.yellow {
+  background-color: "yellow" ;
+}
+
+.green {
+  background-color: "green" ;
+}
+
+.red {
+  background-color: "red" ;
+}
