@@ -5,6 +5,7 @@ h1, h2 {
 .flag {
   height: 90px ;
   width: 400px ;
+  margin: auto ;
 }
 
 .yellow {
